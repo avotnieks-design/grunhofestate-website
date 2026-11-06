@@ -1,0 +1,281 @@
+[
+  {
+    "code": "54960040125",
+    "name": "Muiža, skola un parks",
+    "owner": "Jelgavas novada pašvaldība",
+    "category": "municipal",
+    "ownerSource": "Projekta darba materiāli; aktuālās tiesības nav pārbaudītas.",
+    "recordedHa": 43.46,
+    "note": "Zaļās muižas ansambļa centrālā teritorija. Pilnas vienības vēsturiskā platība projekta materiālos — 43,46 ha.",
+    "groups": [
+      "v1",
+      "estate",
+      "expanded"
+    ],
+    "displayGroup": "estate"
+  },
+  {
+    "code": "54960040016",
+    "name": "Vīna Kalni",
+    "owner": "Privātpersona; piezīmēs minēts Kozlovskis",
+    "category": "private",
+    "ownerSource": "2026. gada 3. septembra sarunas kopsavilkums; aktuālais īpašnieks nav pārbaudīts.",
+    "recordedHa": null,
+    "note": "Privātā zeme prioritārā varianta izpētē.",
+    "groups": [
+      "v1",
+      "golf",
+      "expanded"
+    ],
+    "displayGroup": "golf"
+  },
+  {
+    "code": "54960040017",
+    "name": "Zemgaļi",
+    "owner": "Juridiska persona; nosaukums nav precizēts",
+    "category": "private",
+    "ownerSource": "Projekta sarunu izvilkumi; aktuālās tiesības nav pārbaudītas.",
+    "recordedHa": null,
+    "note": "Privāto zemju konsolidācijas iecere.",
+    "groups": [
+      "v1",
+      "golf",
+      "expanded"
+    ],
+    "displayGroup": "golf"
+  },
+  {
+    "code": "54960040434",
+    "name": "Privātā zeme pie laukuma",
+    "owner": "Juridiska persona; nosaukums nav precizēts",
+    "category": "private",
+    "ownerSource": "Projekta sarunu izvilkumi; aktuālās tiesības nav pārbaudītas.",
+    "recordedHa": null,
+    "note": "Darba nosaukums, jo īpašuma nosaukums materiālos nav dots.",
+    "groups": [
+      "v1",
+      "golf",
+      "expanded"
+    ],
+    "displayGroup": "golf"
+  },
+  {
+    "code": "54960040128",
+    "name": "Skolas lauks · 0128",
+    "owner": "Jelgavas novada pašvaldība",
+    "category": "municipal",
+    "ownerSource": "Projekta darba materiāli; aktuālās tiesības nav pārbaudītas.",
+    "recordedHa": 4.92,
+    "note": "Projekta materiālos minēta 4,92 ha pilna vienība.",
+    "groups": [
+      "v1",
+      "golf",
+      "expanded"
+    ],
+    "displayGroup": "golf"
+  },
+  {
+    "code": "54960040126",
+    "name": "Skolas lauks · 0126",
+    "owner": "Jelgavas novada pašvaldība",
+    "category": "municipal",
+    "ownerSource": "Projekta darba materiāli; aktuālās tiesības nav pārbaudītas.",
+    "recordedHa": 36.22,
+    "note": "2. varianta un zemes maiņas sarunu konteksts. 36,22 ha ir agrāk dokumentos norādītā pilnas vienības platība. Skolas lauksaimniecības zemju darba grupā kopā ar 0015, 0126 un 0127; pilnu vienību laukums atšķiras no agrāk iezīmētajiem 110,57 ha.",
+    "groups": [
+      "municipal",
+      "school",
+      "expanded"
+    ],
+    "displayGroup": "school"
+  },
+  {
+    "code": "54960040127",
+    "name": "Skolas lauks · 0127",
+    "owner": "Jelgavas novada pašvaldība",
+    "category": "municipal",
+    "ownerSource": "Projekta darba materiāli; aktuālās tiesības nav pārbaudītas.",
+    "recordedHa": 28.83,
+    "note": "2. varianta un zemes maiņas sarunu konteksts. Skolas lauksaimniecības zemju darba grupā kopā ar 0015, 0126 un 0127; pilnu vienību laukums atšķiras no agrāk iezīmētajiem 110,57 ha.",
+    "groups": [
+      "municipal",
+      "school",
+      "expanded"
+    ],
+    "displayGroup": "school"
+  },
+  {
+    "code": "54960040015",
+    "name": "Dimanti · skolas lauks",
+    "owner": "Jelgavas novada pašvaldība",
+    "category": "municipal",
+    "ownerSource": "Projekta darba materiāli; aktuālās tiesības nav pārbaudītas.",
+    "recordedHa": null,
+    "note": "2. varianta un zemes maiņas sarunu konteksts. Nosaukums atrodams arī vēsturiskajā MK rīkojumā Nr. 713 (2004). Skolas lauksaimniecības zemju darba grupā kopā ar 0015, 0126 un 0127; pilnu vienību laukums atšķiras no agrāk iezīmētajiem 110,57 ha.",
+    "groups": [
+      "municipal",
+      "school",
+      "expanded"
+    ],
+    "displayGroup": "school"
+  },
+  {
+    "code": "54960040242",
+    "name": "Meža teritorija",
+    "owner": "Valsts / LVM (projekta piezīmes)",
+    "category": "state",
+    "ownerSource": "Projekta darba materiāli; precīzs īpašnieks un valdītājs nav pārbaudīts.",
+    "recordedHa": null,
+    "note": "Agrākajā kartē iezīmēti 42,49 ha; sarunās minēti ap 44 ha. Tas atšķiras no visas šeit attēlotās zemes vienības ģeometriskā laukuma.",
+    "groups": [
+      "forest",
+      "expanded"
+    ],
+    "displayGroup": "forest"
+  },
+  {
+    "code": "54960040492",
+    "name": "Kalpu ciemats · Muižas ceļš 4",
+    "owner": "Piederība jāprecizē",
+    "category": "unknown",
+    "ownerSource": "Projekta papildu zemju piezīmes.",
+    "recordedHa": null,
+    "note": "Iepriekš minēti aptuveni 1,8 ha un 11 ēkas. Ēku skaits šajā kartē nav pārbaudīts. Grupējums kalpu ciemata un piegulošo zemju izpētei; tas nenosaka kultūras pieminekļa juridisko robežu.",
+    "groups": [
+      "village",
+      "extra",
+      "expanded"
+    ],
+    "displayGroup": "village",
+    "contextSources": [
+      {
+        "label": "Pašvaldības 2016. gada lēmums par Muižas māju sadalīšanu",
+        "url": "https://www.jelgavasnovads.lv/lv/media/28674/download?attachment="
+      }
+    ]
+  },
+  {
+    "code": "54960040493",
+    "name": "Kalpu ciemata apkārtne · 0493",
+    "owner": "Piederība jāprecizē",
+    "category": "unknown",
+    "ownerSource": "Projekta papildu zemju piezīmes.",
+    "recordedHa": null,
+    "note": "Agrākais pieraksts par aptuveni 58 ha neatbilst VZD datnē atrastās vienības ģeometriskajam laukumam (~0,50 ha). Kartē izmantota VZD ģeometrija. Grupējums kalpu ciemata un piegulošo zemju izpētei; tas nenosaka kultūras pieminekļa juridisko robežu.",
+    "groups": [
+      "village",
+      "extra",
+      "expanded"
+    ],
+    "displayGroup": "village",
+    "contextSources": [
+      {
+        "label": "Pašvaldības 2016. gada lēmums par Muižas māju sadalīšanu",
+        "url": "https://www.jelgavasnovads.lv/lv/media/28674/download?attachment="
+      }
+    ]
+  },
+  {
+    "code": "54960040491",
+    "name": "Kalpu ciemata apkārtne · 0491",
+    "owner": "Piederība jāprecizē",
+    "category": "unknown",
+    "ownerSource": "Projekta papildu zemju piezīmes.",
+    "recordedHa": null,
+    "note": "Agrākais pieraksts par aptuveni 76 ha neatbilst VZD datnē atrastās vienības ģeometriskajam laukumam (~0,77 ha). Kartē izmantota VZD ģeometrija. Grupējums kalpu ciemata un piegulošo zemju izpētei; tas nenosaka kultūras pieminekļa juridisko robežu.",
+    "groups": [
+      "village",
+      "extra",
+      "expanded"
+    ],
+    "displayGroup": "village",
+    "contextSources": [
+      {
+        "label": "Pašvaldības 2016. gada lēmums par Muižas māju sadalīšanu",
+        "url": "https://www.jelgavasnovads.lv/lv/media/28674/download?attachment="
+      }
+    ]
+  },
+  {
+    "code": "54960040523",
+    "name": "Muižas ceļš 5 · ciemata apkārtne",
+    "owner": "Piederība jāprecizē",
+    "category": "unknown",
+    "ownerSource": "Projekta papildu zemju piezīmes.",
+    "recordedHa": null,
+    "note": "Iepriekš minēti aptuveni 0,21 ha. Grupējums kalpu ciemata un piegulošo zemju izpētei; tas nenosaka kultūras pieminekļa juridisko robežu.",
+    "groups": [
+      "village",
+      "extra",
+      "expanded"
+    ],
+    "displayGroup": "village",
+    "contextSources": [
+      {
+        "label": "Pašvaldības 2016. gada lēmums par Muižas māju sadalīšanu",
+        "url": "https://www.jelgavasnovads.lv/lv/media/28674/download?attachment="
+      }
+    ]
+  },
+  {
+    "code": "54960040101",
+    "name": "Veckastaņi · bāzes teritorija 0101",
+    "owner": "Piederība jāprecizē",
+    "category": "unknown",
+    "ownerSource": "Jaunākās mājaslapas golfa koncepcija.",
+    "recordedHa": null,
+    "note": "Golfa tehniskās bāzes iecere. Pašvaldības 22.06.2016. lēmumā īpašuma Veckastaņi (kadastra Nr. 54960040490) sastāvā nosauktas vienības 54960040101 un 54960040102. Aktuālā īpašuma piederība pārbaudāma atsevišķi.",
+    "groups": [
+      "base",
+      "extra",
+      "expanded"
+    ],
+    "displayGroup": "base",
+    "contextSources": [
+      {
+        "label": "Pašvaldības 22.06.2016. lēmums par Veckastaņiem, 9. §",
+        "url": "https://www.jelgavasnovads.lv/lv/media/28650/download?attachment="
+      }
+    ]
+  },
+  {
+    "code": "54960040102",
+    "name": "Veckastaņi · bāzes teritorija 0102",
+    "owner": "Piederība jāprecizē",
+    "category": "unknown",
+    "ownerSource": "Pašvaldības 22.06.2016. lēmumā paredzēta Veckastaņu iegāde; aktuālās īpašuma tiesības nav pārbaudītas.",
+    "recordedHa": null,
+    "note": "Otra Veckastaņu īpašuma zemes vienība. 22.06.2016. lēmumā īpašuma (kadastra Nr. 54960040490) sastāvā minētas 0101 un 0102; grupā iekļautas abas golfa tehniskās bāzes izpētei.",
+    "groups": [
+      "base",
+      "extra",
+      "expanded"
+    ],
+    "displayGroup": "base",
+    "contextSources": [
+      {
+        "label": "Pašvaldības 22.06.2016. lēmums par Veckastaņiem, 9. §",
+        "url": "https://www.jelgavasnovads.lv/lv/media/28650/download?attachment="
+      }
+    ]
+  },
+  {
+    "code": "54960040229",
+    "name": "Muižas mājas · vēsturiskā atsauce 0229",
+    "owner": "Piederība jāprecizē",
+    "category": "unknown",
+    "ownerSource": "Agrāka projekta piezīme; pilns sākotnējais avots nav atgūts.",
+    "recordedHa": null,
+    "note": "Pašvaldības 2016. gada lēmumā paredzēta agrākās 3,3 ha zemes vienības Muižas mājas sadalīšana. Izmantotajā VZD datnē atsevišķa 0229 robeža nav atrodama; to nepieskaita platības summai. Kalpu ciemata apkaimes pašreizējās vienības atlasāmas grupā Kalpu ciemats.",
+    "groups": [
+      "extra"
+    ],
+    "displayGroup": "reference",
+    "contextSources": [
+      {
+        "label": "Pašvaldības 2016. gada lēmums par Muižas māju sadalīšanu",
+        "url": "https://www.jelgavasnovads.lv/lv/media/28674/download?attachment="
+      }
+    ]
+  }
+]

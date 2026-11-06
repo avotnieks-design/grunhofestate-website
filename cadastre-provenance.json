@@ -1,0 +1,10 @@
+{
+  "publisher": "Valsts zemes dienests",
+  "url": "https://data.gov.lv/dati/lv/dataset/kadastra-informacijas-sistemas-atverti-telpiskie-dati/resource/fbec7921-0899-40ff-b4bd-e9c9c358d3dd",
+  "downloadUrl": "https://data.gov.lv/dati/dataset/b28f0eed-73b0-4e44-94e7-b04b11bf0b69/resource/fbec7921-0899-40ff-b4bd-e9c9c358d3dd/download/0030000_kk_shp.zip",
+  "license": "CC BY 4.0",
+  "crs": "EPSG:10306 · LKS-2020 TM",
+  "retrieved": "2026-11-05",
+  "snapshot": "2026-10-31",
+  "sha256": "768a7ce4781ad800144197762732ac0f9ced4e5d2e6f48d766c935be8d9cbccc"
+}
