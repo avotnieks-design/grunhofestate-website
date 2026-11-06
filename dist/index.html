@@ -80,7 +80,7 @@ body *{font-style:normal!important}
 .patron-card:nth-child(2){background:#dbc39019}.patron-card:nth-child(3){background:#d2b47c20}
 .patron-card-head{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:17px;min-height:85px}
 .patron-number{font-size:13px;letter-spacing:.12em;color:#89643d}
-.patron-study{display:block;width:130px;aspect-ratio:5 / 3;background-image:url('assets/object-studies.png');background-size:200% 500%;background-position:var(--sprite-x) var(--sprite-y);background-repeat:no-repeat;mix-blend-mode:multiply;filter:sepia(1) saturate(.72) contrast(.96);flex:none}
+.patron-study{display:block;width:150px;height:96px;object-fit:contain;mix-blend-mode:multiply;flex:none}
 .patron-card h3{font-size:29px;line-height:1.15;margin:0 0 11px}.patron-amount{font-size:34px;line-height:1.2;letter-spacing:-.04em;white-space:nowrap;margin:0 0 25px}
 .patron-benefits{margin:0;padding:0;list-style:none;border-top:1px solid #b69c735c}
 .patron-benefits li{padding:18px 0 0;color:var(--body);font-size:14px;line-height:1.8}.patron-benefits strong{display:block;color:var(--ink);font-size:20px;font-weight:400;line-height:1.3;margin-bottom:5px}
@@ -164,17 +164,17 @@ body *{font-style:normal!important}
         </div>
         <div class="patron-grid">
           <article class="patron-card" aria-labelledby="patron-one-title">
-            <div class="patron-card-head"><span class="patron-number" aria-hidden="true">I</span><span class="patron-study" aria-hidden="true" style="--sprite-x:100%;--sprite-y:75%"></span></div>
+            <div class="patron-card-head"><span class="patron-number" aria-hidden="true">I</span><img class="patron-study" src="assets/patron-scroll.webp" width="640" height="427" alt="Goda raksta rullis ar zīmogu, skicēts brūnā tintē" loading="lazy"></div>
             <h3 id="patron-one-title">Mecenāts</h3><p class="patron-amount">100 000 €</p>
             <ul class="patron-benefits"><li><strong>5 gadu dalība</strong>Golfa klubā kopš tā atvēršanas.</li><li><strong>Fonda lielais draugs</strong>Goda statuss par ieguldījumu muižas atjaunošanā.</li><li class="patron-honour">Paliekoša vieta atjaunotās Zaļās muižas vēstures grāmatās.</li></ul>
           </article>
           <article class="patron-card" aria-labelledby="patron-two-title">
-            <div class="patron-card-head"><span class="patron-number" aria-hidden="true">II</span><span class="patron-study" aria-hidden="true" style="--sprite-x:100%;--sprite-y:50%"></span></div>
+            <div class="patron-card-head"><span class="patron-number" aria-hidden="true">II</span><img class="patron-study" src="assets/patron-order.webp" width="640" height="427" alt="Grezns goda ordenis ar lenti, skicēts brūnā tintē" loading="lazy"></div>
             <h3 id="patron-two-title">Dižmecenāts</h3><p class="patron-amount">500 000 €</p>
             <ul class="patron-benefits"><li><strong>15 gadu dalība</strong>Topošajā golfa klubā.</li><li><strong>1 īpašs pasākums</strong>Apmaksāts pasākums līdz 100 viesiem ar plašu kultūras programmu.</li><li class="patron-honour">Augstāka līmeņa goda atzinība un piederība muižas atdzimšanas stāstam.</li></ul>
           </article>
           <article class="patron-card" aria-labelledby="patron-three-title">
-            <div class="patron-card-head"><span class="patron-number" aria-hidden="true">III · GRAND</span><span class="patron-study" aria-hidden="true" style="--sprite-x:0%;--sprite-y:75%"></span></div>
+            <div class="patron-card-head"><span class="patron-number" aria-hidden="true">III · GRAND</span><img class="patron-study" src="assets/patron-signet-ring.webp" width="640" height="427" alt="Karalisks zīmoggredzens, skicēts brūnā tintē" loading="lazy"></div>
             <h3 id="patron-three-title">Lielpatrons</h3><p class="patron-amount">1 000 000 €</p>
             <ul class="patron-benefits"><li><strong>Mūža dalība</strong>Topošajā golfa klubā.</li><li><strong>5 īpaši pasākumi</strong>Apmaksāti pasākumi, katrs līdz 100 viesiem.</li><li class="patron-honour">Programmas augstākais līmenis un īpaša goda atzinība par ieguldījumu.</li></ul>
           </article>
